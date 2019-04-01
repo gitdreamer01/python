@@ -1,0 +1,3 @@
+1、现在D盘目录下创建一个test目录
+2、在test目录下创建一个test.txt文本 用于写入数字的
+3、打开命令行窗口   执行这个命令: python D:/test/pythonTest.py
